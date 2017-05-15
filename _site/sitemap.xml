@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:3000/</loc>
-    <lastmod>2017-05-14T21:56:06-07:00</lastmod>
+    <lastmod>2017-05-14T22:36:24-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -76,6 +76,19 @@
       <loc>http://localhost:3000/tunisia_after_isis.html</loc>
       
         <lastmod>2015-07-10T00:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:3000/swindoll.html</loc>
+      
+        <lastmod>2014-11-21T00:00:00-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -167,7 +180,7 @@
   <url>
     <loc>http://localhost:3000/404</loc>
     
-      <lastmod>2017-05-14T21:56:06-07:00</lastmod>
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -180,7 +193,7 @@
   <url>
     <loc>http://localhost:3000/atom.xml</loc>
     
-      <lastmod>2017-05-14T21:56:06-07:00</lastmod>
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -193,7 +206,7 @@
   <url>
     <loc>http://localhost:3000/</loc>
     
-      <lastmod>2017-05-14T21:56:06-07:00</lastmod>
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -206,7 +219,33 @@
   <url>
     <loc>http://localhost:3000/sitemap.xml</loc>
     
-      <lastmod>2017-05-14T21:56:06-07:00</lastmod>
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/page2/</loc>
+    
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/page3/</loc>
+    
+      <lastmod>2017-05-14T22:36:24-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
