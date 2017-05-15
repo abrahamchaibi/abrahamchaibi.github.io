@@ -24,3 +24,6 @@ disqus: abrahamchaibi-com
 
 # needed for travis-ci build
 exclude: [vendor]
+
+# Google analytics
+google_analytics: UA-99146062-1

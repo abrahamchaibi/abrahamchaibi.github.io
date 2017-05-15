@@ -34,7 +34,9 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}static/css/syntax.css" />
 
     <!-- Google Analytics -->
+    {% if site.google_analytics and jekyll.environment == 'production' %}
     {% include analytics.html %}
+    {% endif %}
     {% seo %}
   </head>
   <!-- Main Body-->
