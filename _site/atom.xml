@@ -6,7 +6,7 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-05-10T19:29:50Z</updated>
+  <updated>2017-05-14T21:49:26Z</updated>
   <author>
     <name>Abraham Chaibi</name>
     <email>abrahamchaibi@gmail.com</email>
@@ -14,11 +14,110 @@
   <rights type="text">Copyright © 2017 Abraham Chaibi. All rights reserved.</rights>
   
   <entry>
-  <title type="text">Hello World</title>
-  <link rel="alternate" type="text/html" href="http://localhost:3000/post1.html" />
-  <id>http://localhost:3000/post1</id>
-  <published>2015-12-29T00:00:00Z</published>
-  <updated>2015-12-29T00:00:00Z</updated>
+  <title type="text">A Step Outside the Political Box</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/political_box.html" />
+  <id>http://localhost:3000/political_box</id>
+  <published>2017-05-07T00:00:00Z</published>
+  <updated>2017-05-07T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Live a Little</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/live_a_little.html" />
+  <id>http://localhost:3000/live_a_little</id>
+  <published>2016-10-05T00:00:00Z</published>
+  <updated>2016-10-05T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Until He Wasn't</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/until_he_wasnt.html" />
+  <id>http://localhost:3000/until_he_wasnt</id>
+  <published>2016-07-23T00:00:00Z</published>
+  <updated>2016-07-23T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Innovation in the Public Sector</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/innovation_public_sector.html" />
+  <id>http://localhost:3000/innovation_public_sector</id>
+  <published>2016-07-23T00:00:00Z</published>
+  <updated>2016-07-23T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Weakness In Radiant Logistics' Acquisitions Masked By Fair Value Of Contingent Consideration</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/radiant.html" />
+  <id>http://localhost:3000/radiant</id>
+  <published>2015-10-22T00:00:00Z</published>
+  <updated>2015-10-22T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Tunisia After ISIS</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/tunisia_after_isis.html" />
+  <id>http://localhost:3000/tunisia_after_isis</id>
+  <published>2015-07-10T00:00:00Z</published>
+  <updated>2015-07-10T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Palo Alto Networks 1-Year Forecast</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/palo_alto_networks.html" />
+  <id>http://localhost:3000/palo_alto_networks</id>
+  <published>2014-10-06T00:00:00Z</published>
+  <updated>2014-10-06T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Imperva: Cyber-Security Long Play</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/imperva.html" />
+  <id>http://localhost:3000/imperva</id>
+  <published>2014-10-01T00:00:00Z</published>
+  <updated>2014-10-01T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">US Aid to Lebanon, a Delicate Balance</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/us_aid_to_lebanon.html" />
+  <id>http://localhost:3000/us_aid_to_lebanon</id>
+  <published>2014-02-10T00:00:00Z</published>
+  <updated>2014-02-10T00:00:00Z</updated>
+  <content type="html"><![CDATA[ 
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Propagation of orbital angular momentum carrying beams through a perturbing medium</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/propagation_of_oam.html" />
+  <id>http://localhost:3000/propagation_of_oam</id>
+  <published>2013-09-19T00:00:00Z</published>
+  <updated>2013-09-19T00:00:00Z</updated>
   <content type="html"><![CDATA[ 
  ]]></content>
 </entry>

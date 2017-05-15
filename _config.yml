@@ -7,7 +7,6 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
 url: http://www.abrahamchaibi.com/
 baseurl: ""
@@ -17,11 +16,8 @@ description: Personal Website
 avatar: profile.png
 email: abrahamchaibi@gmail.com
 github: abrahamchaibi
-resume: "https://docs.google.com/document/d/1LLrHpJqvV3LNZWVgQZSVfDGnXC2HTR0xyeJPN2Ujbtg/edit?usp=sharing"
 linkedin: abraham-chaibi-b217b13b
-#Comment out if you don't want disqus
 disqus: abrahamchaibi-com
-#google_analytics: UA-71828543-1
 
 # needed for travis-ci build
 exclude: [vendor]
