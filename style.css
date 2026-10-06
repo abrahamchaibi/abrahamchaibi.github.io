@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Crimson Pro";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("assets/fonts/crimson-pro-latin.woff2") format("woff2");
+}
+
+:root {
+  color-scheme: light;
+  background: #f5f0e6;
+  color: #333;
+  font-family: "Crimson Pro", Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+}
+
+* { box-sizing: border-box; }
+body { max-width: 740px; margin: 60px auto 80px; padding: 0 20px; }
+h1 { margin: 0 0 0.12em; font-size: 2rem; line-height: 1.25; font-weight: 700; }
+h2 { margin: 1.35em 0 0.65em; font-size: 1.16rem; line-height: 1.2; font-weight: 700; }
+p { margin: 0.5em 0; }
+.intro { margin: 0 0 1.35em; color: #66615a; }
+ul { margin: 0.6em 0 1em; padding-left: 1.55em; }
+li { padding-left: 0.05em; overflow-wrap: break-word; }
+.experience > li { margin-bottom: 0.4em; }
+li ul { margin: 0.25em 0 0.6em; }
+a { color: #256b9f; text-decoration: none; text-underline-offset: 3px; }
+a:hover { text-decoration: underline; }
+a:focus-visible, summary:focus-visible { outline: 2px solid #256b9f; outline-offset: 4px; border-radius: 1px; }
+.item-note { margin-left: 8px; color: #736c63; font-size: 0.82rem; white-space: nowrap; }
+.item-note::before { content: "· "; }
+.annotation { display: block; color: #736c63; font-size: 0.9rem; }
+.video-player { margin: -0.5em 0 1em 1.6em; }
+summary { color: #256b9f; cursor: pointer; width: fit-content; }
+summary:hover { text-decoration: underline; text-underline-offset: 3px; }
+iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; margin-top: 0.75em; background: #e9e3d8; }
+.video-fallback { font-size: 0.88rem; }
+.skip-link { position: absolute; top: 8px; left: 20px; transform: translateY(-200%); background: #f5f0e6; padding: 4px 8px; }
+.skip-link:focus { transform: translateY(0); }
+::selection { color: #222; background: #d4e2e9; }
+
+@media (max-width: 640px) {
+  body { margin: 36px auto 56px; }
+  h1 { font-size: 1.8rem; }
+  .item-note { display: block; margin: 0; white-space: normal; }
+  .item-note::before { content: ""; }
+  li { margin-bottom: 0.35em; }
+  .video-player { margin-left: 0; }
+}
+
+@media print {
+  :root { background: white; color: black; }
+  body { margin: 0; max-width: none; }
+  h2 { break-after: avoid; }
+  li { break-inside: avoid; }
+  a { color: inherit; }
+  .skip-link, .video-player { display: none; }
+}
