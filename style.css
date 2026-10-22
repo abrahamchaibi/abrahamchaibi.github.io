@@ -58,3 +58,9 @@ iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; margin-to
   a { color: inherit; }
   .skip-link, .video-player { display: none; }
 }
+
+.site-footer { max-width: 740px; margin: 3em auto 0; padding-top: 1.2em; border-top: 1px solid #e0d8ca; color: #736c63; font-size: 0.85rem; }
+.site-footer p { margin: 0.25em 0; }
+.site-footer a { color: #736c63; }
+.site-footer a:hover { color: #256b9f; }
+@media print { .site-footer { display: none; } }
